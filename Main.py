@@ -4,7 +4,7 @@ import random
 from Movies import movies_by_language, moods
 
 
-BUTTON_BG = "#4A90E2"
+BUTTON_BG = "#000000"
 BUTTON_FG = "white"
 BUTTON_ACTIVE_BG = "#357ABD"
 BUTTON_ACTIVE_FG = "white"
